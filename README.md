@@ -1,2 +1,2 @@
 # animated-carnival
-parse timestamp in nano seconds
+parse timestamp in micro seconds
